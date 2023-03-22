@@ -16,14 +16,18 @@ justify-self: space-between;
 }
 .nav__black{
 background-color: black;
+
 }
+
 .nav__logo{
 position: fixed;
 left: 0;
+top: 10px;
 width: 80px;
 object-fit: contain;
 padding-left: 20px;
 cursor: pointer;
+
 }
 
 .nav__avatar{
