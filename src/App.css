@@ -1,4 +1,9 @@
-*
-{
+*{
   margin: 0;
+}
+
+.app{
+  background-color: black;
+  height: 110vh;
+
 }

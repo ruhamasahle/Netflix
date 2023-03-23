@@ -4,7 +4,7 @@ const requests={
     fetchTrending:`/trending/all/week?api_key=${API_KEY}&language=en-US`,
     fetchNetflixOriginals:'',
     fetchLatest:`/latest?api_key=${API_KEY}&language=en-US`,
-    fetchPopular:`/popular?api_key=${API_KEY}&language=en-US&page=1`
+    fetchPopular:`/popular?api_key=${API_KEY}&language=en-US`
 
 
 
