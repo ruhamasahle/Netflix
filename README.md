@@ -10,6 +10,7 @@ The stripe integration to firebase was accomplished in the form of displaying wh
 One difficulty I faced piecing this project together is having difficulty seeing how all the granular parts come together. I had to take some time to understand what different components are at play that make the magic of netflix. Building out this clone, I began to understand how mesmerizing UX can be because until this opportunity necessitated me to look intently at what styling the original website uses, I did not nitpick the site. Instead, I simply enjoyed the unbounded immersion it cultivated. To that end, I must say, it dampens the immersive magic of Netflix a little bit :/
 
 Additionally, some current issues I am working to resolve include the following:
+  
   🚩 Stripe integration throws an error when a user attempts to purchase a plan- it does not reroute to the checkout page.
 
   🚩 Some of the endpoints from The Movie Database appear to not work as the API reference indicates. This will require getting more familiar with the API.
