@@ -18,7 +18,7 @@ Additionally, some current issues I am working to resolve include the following:
 
   🚩 Some of the endpoints from The Movie Database appear to not work as the API reference indicates. This will require getting more familiar with the API.
 
-**Learning Point **
+**Learning Point**
 
 Reiterating my note above about the seamlessness of integrations, building out this project taught me how much agency learning how to code enables me; I can build a lot of things now! 
 
